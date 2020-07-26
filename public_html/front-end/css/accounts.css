@@ -1,0 +1,46 @@
+body{
+    font-family: 'Comic Neue', cursive;
+}
+
+.account-container{
+    margin: 3%;
+}
+
+.left{
+    background-color: #f0a500;
+    width: 30%;
+    float: left;
+    padding: 2%;
+}
+
+.right{
+    width: 65%;
+    float: right;
+    overflow: hidden;
+}
+
+.image{
+    text-align: center;
+    width: 30%;
+    margin: 3% 0;
+}
+
+h1{
+    border-top: 4px solid #cf7500;
+    padding: 3% 0;
+}
+
+span{
+    font-weight: bolder;
+}
+
+.informations{
+    font-size: 20px;
+    line-height: 200%;
+}
+
+
+footer{
+    clear: both;
+    text-align: center;
+}
